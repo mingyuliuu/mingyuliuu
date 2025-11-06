@@ -32,13 +32,9 @@ Here are some ideas to get you started:
   <br>
   
   <samp>
-    Hey!! I'm Mingyu (Miranda) Liu :wave:
-    <br>
-    I'm an undergrad student at the University of Waterloo,
-    <br>
-    working towards a dual degree in Computer Science and Business Administration.
+    Hey!! I'm Mingyu Liu :wave:
     <br><br>
-    I currently work at <b><a href="https://beyz.one/">Beyz AI</a></b> as a Software Engineering Lead. I have
+    I currently work at Bloomberg as a Software Engineer. I have
     <br>
     <b>internship experience as: </b> full-stack software engineer, android developer, product prototyper
     <br>
